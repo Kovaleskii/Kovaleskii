@@ -23,17 +23,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-2945099.png?f=webp&w=256" height="40" alt="Python Logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.png?f=webp&w=256" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://banner2.cleanpng.com/20180526/oqt/avq6683ud.webp" height="40" alt="SQL Logo"  />
+  <img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png" height="40" alt="python logo"  />
+  <img width="12" />  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" height="40" alt="html logo"  />
   <img width="12" />
-  <img src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange.png" height="40" alt="Java Logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://e7.pngegg.com/pngimages/913/851/png-clipart-responsive-web-design-html-world-wide-web-consortium-world-wide-web-angle-text.png" height="40" alt="HTML logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="sql logo"  />
   <img width="12" />
-  <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" height="40" alt="CSS logo"  />
-  <img width="12" />
-
+</div>
 
   
   
