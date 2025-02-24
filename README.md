@@ -27,9 +27,9 @@
   <img width="12" />
   <img src="https://banner2.cleanpng.com/20180526/oqt/avq6683ud.webp" height="40" alt="SQL Logo"  />
   <img width="12" />
-  <img src="https://banner2.cleanpng.com/20181109/oll/kisspng-java-development-kit-logo-programming-language-por-java-logo-svg-1713924793188.webp" height="40" alt="Java Logo"  />
+  <img src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange.png" height="40" alt="Java Logo"  />
   <img width="12" />
-  <img src="https://banner2.cleanpng.com/20180503/thq/avdoer0cb.webp" height="40" alt="CSS logo"  />
+  <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" height="40" alt="CSS logo"  />
   <img width="12" />
 
 
