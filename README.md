@@ -29,6 +29,8 @@
   <img width="12" />
   <img src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange.png" height="40" alt="Java Logo"  />
   <img width="12" />
+  <img src="https://e7.pngegg.com/pngimages/913/851/png-clipart-responsive-web-design-html-world-wide-web-consortium-world-wide-web-angle-text.png" height="40" alt="HTML logo"  />
+  <img width="12" />
   <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" height="40" alt="CSS logo"  />
   <img width="12" />
 
