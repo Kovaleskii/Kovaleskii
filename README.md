@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024 <br>📚 I'm currently learning Java, Javascript, CSS, HTML, SQL, NODE.JS, Python; <br>🎯 Goals: Senior progammer <br>🎲 Fun fact: I play volleyball and CSGO </p>
+<p align="left">✨ Creating bugs since 2024 <br>📚 I'm currently learning Java, Javascript, CSS, HTML, SQL, NODE.JS, Python; <br>🎯 Goals: Junior progammer <br>🎲 Fun fact: I play volleyball and CSGO </p>
 
 ###
 
